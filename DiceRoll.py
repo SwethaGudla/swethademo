@@ -22,7 +22,6 @@ while True:
         print("latest position of dice")
         r.dice(r.res)
         print('Thanks for Participation, Visit Again!!!')
-        print('ThankYou')
         break
     else:
         print('Invalid move\nPlease Make Correct Choice!!! ')
